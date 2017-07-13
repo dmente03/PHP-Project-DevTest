@@ -43,5 +43,5 @@ $ docker-compose exec app php artisan db:seed
 
 ### Run tests
 
-$ docker-compose exec app php compose test
+$ docker-compose exec app compose test
 
