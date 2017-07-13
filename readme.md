@@ -36,4 +36,7 @@ And to seed the database with fake information, run:
 
 $ docker-compose exec app php artisan db:seed
 
+### End-points
 
+0.0.0.0:8080/api/users
+0.0.0.0:8080/api/users/$id
