@@ -40,3 +40,8 @@ $ docker-compose exec app php artisan db:seed
 
 0.0.0.0:8080/api/users
 0.0.0.0:8080/api/users/$id
+
+### Run tests
+
+$ docker-compose exec app php compose test
+
