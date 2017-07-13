@@ -2,17 +2,21 @@
 
 ## Create a RESTful API Using HTTP Verbs for a /user Endpoint
 
-The project was designed to create an API for management of user module with GET, PUT, DELETE and POST actions.
+⋅⋅* The project was designed to create an API for management of user module with GET, PUT, DELETE and POST actions.
 
-The attributes of the module are name, email and password.
+⋅⋅* The attributes of the module are name, email and password.
 
-The test development approach was TDD using PHPUnit.
+⋅⋅* The test development approach was TDD using PHPUnit.
 
-Language: PHP 7
-Framework: Laravel 5.3.*
-Database: MySQL
+### Archtecture
+
+Language: PHP 7<br />
+Framework: Laravel 5.3.*<br />
+Database: MySQL<br />
 
 To development environment was used Dockers containers with PHP, MySQL and Nginx server.
+
+### Installation
 
 To run this project after repository clone, in the main directory on your host, type:
 
